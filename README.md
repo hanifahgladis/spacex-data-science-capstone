@@ -1,6 +1,3 @@
-# spacex-data-science-capstone
-Capstone project for IBM Data Science Professional Certificate – SpaceX Launch Data Analysis and Prediction
-
 # SpaceX Launch Analysis and Prediction – IBM Capstone Project
 
 This repository contains the full code, dashboards, and report for the final project of the IBM Data Science Professional Certificate on Coursera.
